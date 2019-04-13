@@ -1,0 +1,135 @@
+
+.container-fluid1 {
+    position: relative;
+    text-align: center;
+    
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 100px;
+    left: 200px;
+    color: white;
+
+}
+.bottom-right {
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+    color: white;
+
+}
+.bottom-center {
+     position: absolute;
+    top: 30%;
+   
+    left: 30%;
+    right: 30%;
+        background: rgba(255, 255, 255, 0.8);
+        color: rgb(0, 0, 160);
+        font-family: bold;
+
+}
+.prev {
+     position: absolute;
+    top: 35%;
+    left:1%;
+   
+    
+        
+
+}
+.next {
+     position: absolute;
+    top: 35%;
+    right: 1%;
+
+    
+        
+
+}
+.bottom {
+     position: absolute;
+   
+    bottom:0%;
+    left: 10%;
+    
+      
+        font-family: bold;
+
+}
+
+.button1
+{
+
+	border-width: solid 1px; 
+	border-color: purple;
+	 color: purple;
+}
+.hello
+{
+color: white;
+margin: 0px;
+background-color: black;
+
+
+}
+
+.textCenter
+{
+
+	text-align: center;
+}
+.footer
+{
+
+	margin-top: 100px;
+}
+.about
+{
+padding-top: 230px;
+font-size:18px;
+
+background-image: url('img/b11.jpg');
+background-repeat: no-repeat;
+background-position: right top;
+
+ }
+
+
+
+
+.padd
+{
+padding-top:180px;
+}
+.line{
+width: 112px;
+height: 47px;
+border-bottom: 4px solid yellow;
+
+position: center;
+text-align: center;
+}
+.red
+{
+
+
+	color: red;
+}
+.white
+{
+
+	color: white;
+}
+.yellow
+{
+
+	color:yellow;
+}
+.bold
+{
+font-family: arial;
+font-size: x-large;
+	
+}
